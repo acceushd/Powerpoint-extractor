@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-zip = "8.6.0"
+zip = "9.0.0-pre3"
 itertools = "0.15.0"
 tempfile = "3.27.0"
