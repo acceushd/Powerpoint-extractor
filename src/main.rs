@@ -1,7 +1,5 @@
 use itertools::Itertools;
 use std::collections::HashMap;
-use std::fs::{create_dir, remove_dir_all};
-use std::path::PathBuf;
 #[allow(unused_imports)]
 use std::{env, fs};
 use std::thread::sleep;
